@@ -92,9 +92,9 @@ cd Employee-Management-System
 
 ## 📸 Screenshots
 
-| Employee List | Add Employee |
-|--------------|-------------|
-| ![Employee List]([https://drive.google.com/file/d/17A85KugYrhDKc0Ukguo1CrKRVTCUirjs/view?usp=sharing]) |
+| Employee Add/List |
+|--------------|
+| ![Employee List]([https://drive.google.com/file/d/17A85KugYrhDKc0Ukguo1CrKRVTCUirjs/view]) |
 
 ---
 
