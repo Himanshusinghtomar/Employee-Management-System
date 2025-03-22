@@ -1,0 +1,9 @@
+<nav class="navbar navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">Employee Management</a>
+</nav>
+
+<div class="container">
+  <app-add-employee (employeeAdded)="refreshEmployeeList()"></app-add-employee>
+  <hr />
+  <app-employee-list></app-employee-list>
+</div>
