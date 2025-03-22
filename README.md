@@ -94,7 +94,7 @@ cd Employee-Management-System
 
 | Employee List | Add Employee |
 |--------------|-------------|
-| ![Employee List](https://via.placeholder.com/500x300) | ![Add Employee](https://via.placeholder.com/500x300) |
+| ![Employee List]([https://drive.google.com/file/d/17A85KugYrhDKc0Ukguo1CrKRVTCUirjs/view?usp=sharing]) |
 
 ---
 
