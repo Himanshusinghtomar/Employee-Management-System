@@ -94,7 +94,7 @@ cd Employee-Management-System
 
 | Employee Add/List |
 |--------------|
-| ![Employee List]([https://raw.githubusercontent.com/Himanshusinghtomar/Employee-Management-System/refs/heads/main/ScreenShot/Screenshot%202025-03-23%20at%201.36.16%E2%80%AFa.m..png]) |
+| ![Employee List]([https://raw.githubusercontent.com/Himanshusinghtomar/Employee-Management-System/refs/heads/main/ScreenShot/ss.png]) |
 
 ---
 
